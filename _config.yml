@@ -1,0 +1,14 @@
+layout_spectrum: 0.7503332798369229
+typography_spectrum: 0.4274580292403698
+color:
+  brandStrength: 0.03001193725503981
+  lightness: 0.9955994843039662
+  saturation: 0.49973096139729023
+  rhythmicContrast: 0.3218156876973808
+  brandColors:
+    - '#1A1F2B'
+    - '#30395C'
+    - '#4A6491'
+    - '#85A5CC'
+    - '#D0E4F2'
+name: Technology
